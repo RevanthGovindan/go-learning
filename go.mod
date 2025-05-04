@@ -1,3 +1,3 @@
-module github.com/RevanthGovindan/profit_calculator
+module github.com/RevanthGovindan/go-learning
 
 go 1.23.4
